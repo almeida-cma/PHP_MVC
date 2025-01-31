@@ -45,3 +45,6 @@ Crie a estrutura de pastas e arquivos conforme descrito anteriormente:
     /public
     
         index.php
+
+# Acessar a Aplicação no Navegador
+Abra o navegador e acesse http://localhost/mvc_app/public/index.php.
