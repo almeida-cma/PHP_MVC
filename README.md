@@ -47,4 +47,7 @@ Crie a estrutura de pastas e arquivos conforme descrito anteriormente:
         index.php
 
 # Acessar a Aplicação no Navegador
-Abra o navegador e acesse http://localhost/mvc_app/public/index.php.
+Abra o navegador e acesse http://localhost/mvc_app/public/index.php
+
+# Observação (confiuração para acesso ao banco de dados)
+$port = 7306; // Porta padrão do MySQL no XAMPP é 3306, mas na aplicação usamos a 7306 para evitar conflitos com outros gerenciadores numa mesma máquina os servidor
