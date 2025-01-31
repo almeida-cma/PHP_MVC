@@ -14,4 +14,5 @@ CREATE TABLE users (
 
 # Iniciar o XAMPP
 Abra o painel de controle do XAMPP.
+
 Inicie os serviços Apache e MySQL clicando nos botões "Start" ao lado de cada um.
