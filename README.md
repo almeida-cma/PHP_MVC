@@ -16,3 +16,32 @@ CREATE TABLE users (
 Abra o painel de controle do XAMPP.
 
 Inicie os serviços Apache e MySQL clicando nos botões "Start" ao lado de cada um.
+
+# Estrutura de Pastas e Arquivos
+Crie a estrutura de pastas e arquivos conforme descrito anteriormente:
+
+/mvc_app
+
+    /controllers
+    
+        UserController.php
+        
+    /models
+  
+        User.php
+   
+    /views
+    
+        /user
+        
+            index.php
+            
+            create.php
+    
+    /config
+    
+        database.php
+    
+    /public
+    
+        index.php
