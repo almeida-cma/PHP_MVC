@@ -12,3 +12,6 @@ CREATE TABLE users (
     email VARCHAR(50) NOT NULL
 );
 
+# Iniciar o XAMPP
+Abra o painel de controle do XAMPP.
+Inicie os serviços Apache e MySQL clicando nos botões "Start" ao lado de cada um.
