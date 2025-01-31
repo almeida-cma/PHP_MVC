@@ -2,9 +2,9 @@
 Exemplo padrão MVC com PHP e MySQL (XAMMP)
 
 # Script para criar banco de dados com tabela
-CREATE DATABASE mvc_app;
+CREATE DATABASE mvc;
 
-USE mvc_app;
+USE mvc;
 
 CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY,
@@ -20,7 +20,7 @@ Inicie os serviços Apache e MySQL clicando nos botões "Start" ao lado de cada 
 # Estrutura de Pastas e Arquivos
 Crie a estrutura de pastas e arquivos conforme descrito anteriormente:
 
-/mvc_app
+/mvc
 
     /controllers
     
